@@ -1,5 +1,5 @@
 ## Hi there 👋
-My current Main Project: [https://quotegenerator.github.io/Geometric-Figures/](https://quotegenerator.github.io/RunChase/)
+My current Main Project: [Run and Chase](https://quotegenerator.github.io/RunChase/)
 
 <!--
 **QuoteGenerator/QuoteGenerator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
