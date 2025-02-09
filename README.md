@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandar T.</h1>
 <h3 align="center">I love Programming and Math.</h3>
 
-<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+<p><a href="https://portfolio-vvrpo.ondigitalocean.app">PORTFOLIO</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
